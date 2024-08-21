@@ -1050,7 +1050,7 @@ padding: 40px;
     #skills .row{
     justify-content: center;
   }
-  #skills .row .skill-box{
+  #skills .skill-box{
     width: 60%;
     margin-bottom: 30px;
   }
