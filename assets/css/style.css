@@ -1043,8 +1043,8 @@ padding: 40px;
    
   }
   #work-section .work-title::after{
-    left: -11px;
-    top: 0px;
+    left: -12px;
+    top: 10px;
    
   }
     #skills .row{
