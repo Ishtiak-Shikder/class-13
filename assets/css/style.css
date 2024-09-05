@@ -228,6 +228,9 @@ color: #353535;
    
 }
 
+.service-title:last-child{
+    padding-right: 0;
+
 #services .service-title h5{
   font-family: var(--font-family);
 font-weight: 600;
